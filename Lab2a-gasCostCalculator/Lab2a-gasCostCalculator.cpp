@@ -18,6 +18,8 @@ int main()
 	std::cout << "You can go this many miles on a tank: " << fuelEfficiency * capacity 
 		<< std::endl; 
 
+
+	//insert range (total miles) calculation 
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
